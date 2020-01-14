@@ -1,0 +1,44 @@
+[2020-01-14 06:33:17,158] SEVERE {b7a.log.crash} - null 
+java.lang.NullPointerException
+	at yashodperera.studentsService.___init.yashodperera_studentsService_0_1_0__stop_(studentsService:16)
+	at yashodperera.studentsService.___init.$lambda$yashodperera_studentsService_0_1_0__stop_(studentsService)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:426)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:218)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:191)
+	at org.ballerinalang.jvm.scheduling.Scheduler.start(Scheduler.java:178)
+	at yashodperera.studentsService.___init.$moduleStop(studentsService)
+	at yashodperera.studentsService.___init$SignalListener.run(Unknown Source)
+ 
+[2020-01-14 06:33:17,177] SEVERE {b7a.log.crash} - null 
+java.lang.NullPointerException
+	at yashodperera.studentsService.___init.yashodperera_studentsService_0_1_0__stop_(studentsService:16)
+	at yashodperera.studentsService.___init.$lambda$yashodperera_studentsService_0_1_0__stop_(studentsService)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:426)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:218)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:191)
+	at org.ballerinalang.jvm.scheduling.Scheduler.start(Scheduler.java:178)
+	at yashodperera.studentsService.___init.$moduleStop(studentsService)
+	at yashodperera.studentsService.___init$SignalListener.run(Unknown Source)
+ 
+[2020-01-14 06:34:09,547] SEVERE {b7a.log.crash} - null 
+java.lang.NullPointerException
+	at yashodperera.studentsService.___init.yashodperera_studentsService_0_1_0__stop_(studentsService:16)
+	at yashodperera.studentsService.___init.$lambda$yashodperera_studentsService_0_1_0__stop_(studentsService)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:426)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:218)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:191)
+	at org.ballerinalang.jvm.scheduling.Scheduler.start(Scheduler.java:178)
+	at yashodperera.studentsService.___init.$moduleStop(studentsService)
+	at yashodperera.studentsService.___init$SignalListener.run(Unknown Source)
+ 
+[2020-01-14 06:34:09,554] SEVERE {b7a.log.crash} - null 
+java.lang.NullPointerException
+	at yashodperera.studentsService.___init.yashodperera_studentsService_0_1_0__stop_(studentsService:16)
+	at yashodperera.studentsService.___init.$lambda$yashodperera_studentsService_0_1_0__stop_(studentsService)
+	at org.ballerinalang.jvm.scheduling.SchedulerItem.execute(Scheduler.java:426)
+	at org.ballerinalang.jvm.scheduling.Scheduler.run(Scheduler.java:218)
+	at org.ballerinalang.jvm.scheduling.Scheduler.runSafely(Scheduler.java:191)
+	at org.ballerinalang.jvm.scheduling.Scheduler.start(Scheduler.java:178)
+	at yashodperera.studentsService.___init.$moduleStop(studentsService)
+	at yashodperera.studentsService.___init$SignalListener.run(Unknown Source)
+ 
